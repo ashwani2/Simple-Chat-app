@@ -12,6 +12,6 @@
 	"license": "ISC",
 	"dependencies": {
 		"@socket.io/admin-ui": "^0.2.0",
-		"socket.io": "^4.1.2"
+		"socket.io": "^4.5.2"
 	}
 }
